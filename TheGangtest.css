@@ -403,4 +403,6 @@ footer a {
     </div>
 */
 
-
+.popup{
+    display: none;
+}
